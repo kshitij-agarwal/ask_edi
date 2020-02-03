@@ -34,6 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
     setState(() {
       
       _counter = _counter + 2;
+      // Added misc comments
     });
   }
 
